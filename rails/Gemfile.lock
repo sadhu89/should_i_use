@@ -1,3 +1,8 @@
+PATH
+  remote: ../should_i_use_use_cases
+  specs:
+    should_i_use_use_cases (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -175,6 +180,7 @@ DEPENDENCIES
   puma (~> 3.11)
   rails (~> 5.2.1)
   sass-rails (~> 5.0)
+  should_i_use_use_cases!
   spring
   spring-watcher-listen (~> 2.0.0)
   turbolinks (~> 5)

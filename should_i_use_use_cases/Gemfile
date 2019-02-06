@@ -1,0 +1,6 @@
+source "https://rubygems.org"
+
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
+
+# Specify your gem's dependencies in should_i_use_use_cases.gemspec
+gemspec
